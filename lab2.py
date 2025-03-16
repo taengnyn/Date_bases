@@ -102,7 +102,6 @@ class BPlusTree:
             leaf.children.pop(index)
 
 def hash_name(name: str) -> str:
-    # Розподіл букв за групами
     letter_groups = {
         1: "АБ", 2: "ВГДЕЄ", 3: "ЖЗИІЇЙ", 4: "КЛМН",
         5: "ОПРС", 6: "ТУФ", 7: "ХЦЧ", 8: "ШЩЬ", 9: "ЮЯ"
@@ -137,6 +136,7 @@ if __name__ == "__main__":
     bpt.insert("552510000005", "Петро")
     bpt.insert("431310000006", "Кирило")
     bpt.insert("981000000004", "Юлія")
+    
 
     
     print("Дарія  ", hash_name("Дарія"))
@@ -144,10 +144,10 @@ if __name__ == "__main__":
     print("Аполлінарія  ", hash_name("Аполлінарія"))
     print("Ігор   ", hash_name("Ігор"))
     print("Анна   ", hash_name("Анна"))
-
+    print()
 
     print("Пошук імені 'Іван':", bpt.search("321000000003"))
     print("Пошук усіх після 'Зайченко':", bpt.range_search("332510000008"))
-    
+    print()
     bpt.delete("321000000003")
     print("Після видалення 'Іван':", bpt.search("321000000003"))
