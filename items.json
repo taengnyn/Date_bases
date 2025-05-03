@@ -1,0 +1,123 @@
+[
+    {
+      "category": "Phone",
+      "model": "iPhone 6",
+      "producer": "Apple",
+      "price": 600
+    },
+    {
+      "category": "TV",
+      "model": "Samsung QLED",
+      "producer": "Samsung",
+      "price": 1500
+    },
+    {
+      "category": "Smart Watch",
+      "model": "Huawei Watch GT",
+      "producer": "Huawei",
+      "price": 250
+    },
+  {
+    "category": "Phone",
+    "model": "Samsung Galaxy S21",
+    "producer": "Samsung",
+    "price": 799
+  },
+  {
+    "category": "TV",
+    "model": "LG OLED CX",
+    "producer": "LG",
+    "price": 2200
+  },
+  {
+    "category": "Smart Watch",
+    "model": "Apple Watch Series 7",
+    "producer": "Apple",
+    "price": 399
+  },
+  {
+    "category": "Tablet",
+    "model": "iPad Pro 11",
+    "producer": "Apple",
+    "price": 999
+  },
+  {
+    "category": "Laptop",
+    "model": "Dell XPS 13",
+    "producer": "Dell",
+    "price": 1200
+  },
+  {
+    "category": "Smart Watch",
+    "model": "Samsung Galaxy Watch 4",
+    "producer": "Samsung",
+    "price": 349
+  },
+  {
+    "category": "Phone",
+    "model": "OnePlus 9",
+    "producer": "OnePlus",
+    "price": 729
+  },
+  {
+    "category": "TV",
+    "model": "Sony Bravia X90J",
+    "producer": "Sony",
+    "price": 1800
+  },
+  {
+    "category": "Tablet",
+    "model": "Samsung Galaxy Tab S7",
+    "producer": "Samsung",
+    "price": 650
+  },
+  {
+    "category": "Laptop",
+    "model": "MacBook Air M2",
+    "producer": "Apple",
+    "price": 1300
+  },
+    {
+      "category": "Phone",
+      "model": "Google Pixel 7",
+      "producer": "Google",
+      "price": 699
+    },
+    {
+      "category": "Smart Watch",
+      "model": "Garmin Fenix 7",
+      "producer": "Garmin",
+      "price": 750
+    },
+    {
+      "category": "TV",
+      "model": "Philips 55OLED706",
+      "producer": "Philips",
+      "price": 1400
+    },
+    {
+      "category": "Tablet",
+      "model": "Microsoft Surface Pro 8",
+      "producer": "Microsoft",
+      "price": 1100
+    },
+    {
+      "category": "Laptop",
+      "model": "HP Spectre x360",
+      "producer": "HP",
+      "price": 1350
+    },
+    {
+      "category": "Phone",
+      "model": "Motorola Edge 30",
+      "producer": "Motorola",
+      "price": 599
+    },
+    {
+      "category": "Smart Watch",
+      "model": "Fitbit Versa 4",
+      "producer": "Fitbit",
+      "price": 230
+    }
+  
+]
